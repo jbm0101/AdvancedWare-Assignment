@@ -14,6 +14,7 @@ pandas </br>
 You can install these packages using the following command:
 
 <code> pip install requests pandas </code>
+
 <code> pip install requests </code> // probably preinstalled.
 
 ### Generating User Data
