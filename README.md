@@ -9,11 +9,12 @@ These instructions will help you get a copy of the project up and running on you
 ### Prerequisites
 You need to have the following packages installed on your machine:
 
-requests
-pandas
+requests </br>
+pandas </br>
 You can install these packages using the following command:
 
 <code> pip install requests pandas </code>
+<code> pip install requests </code> // probably preinstalled.
 
 ### Generating User Data
 The generate_random_user_data function uses the Random User Data API (https://random-data-api.com/documentation) to get random user data. The function takes two arguments:
